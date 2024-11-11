@@ -2,7 +2,7 @@
 IMPLEMENTATION OF THE BACK END OF THE COMPILER 
 # Date :11-11-24
 # NAME:Sanjay K
-# Reg.No:212223040138
+# Reg.No:212223220094
 # Aim :
 To write a program to implement the back end of the compiler.
 # ALGORITHM
